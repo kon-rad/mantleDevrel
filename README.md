@@ -6,6 +6,10 @@ https://x.com/AgentK154
 telegram:
 t.me/@MantleDevrelBot
 
+It uses a knowledge base scraed from Mantle Docs, biography based on Mantle DevRel job description.
+It uses a fine tuned gpt-4o model on my tweets, so that it has a more real human personalized vibe.
+Fine tuned model: ft:gpt-4o-2024-08-06:synducer:mantle-devrel-kon:B1LlDTNz
+
 ## About
 
 Inspired by by the idea to automate more jobs, creating an AI devrel is a great use for an AI agent. The devrel that I created tweets around every hour on the topics of his domain of knowledge, and can answer questions on telegram. 
@@ -18,11 +22,11 @@ https://careers.near.org/companies/mantle-network-2/jobs/39849802-senior-devrel-
 
 I created the twitter profile for the Agent and a telegram bot. 
 
+
+
 Prior to starting this hackathon I did not know much about Eliza framework, so I spent a lot of time learning about it and trying to run the github client, but ran into errors. I contributed to the community by posting a GitHub issue that detailed the steps so that it can be fixed for future users. https://github.com/elizaOS/eliza/issues/3513
 
 ### Ideas for future improvements:
-
-fine tune the model to make it more personalized
 
 1. Give the agent actions to be able to search discussions on x, telegram channels, subreddits, and news articles, to aggregate information, summarize and post comments on the latest updates.
 2. Increase the knowledge base to include more blogs, articles, code examples, relevant libraries and other relevant texts. 
