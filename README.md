@@ -7,7 +7,19 @@ pnpm run dev --characters="characters/mantleHelper.character.json"
 
 # Eliza Mantle DevRel
 
-# created knowledge from folder
+Accessible from X:
+https://x.com/AgentK154
 
+telegram:
+t.me/@MantleDevrelBot
+
+
+
+# websites scraped 
+https://docs.mantle.xyz/
+
+
+
+# created knowledge from folder
 
 node scripts/folder2knowledge.js ../mantleDevrelKnowledge
